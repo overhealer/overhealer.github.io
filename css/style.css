@@ -433,6 +433,7 @@ a:focus {
     width: 100%;
     margin-bottom: 30px;
     padding-bottom: 10px;
+	box-shadow: 10px 10px 5px lightblue;
 }
 
 .content-header h2 {
